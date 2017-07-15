@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Cse Election 2017</string>
+    <string name="Winner">Winner : </string>
+    <string name="Winsby">Wins by : </string>
+    <string name="cvpresident">President</string>
+    <string name="cvvice_president">Vice President</string>
+    <string name="cvtreasurer">Treasurer</string>
+    <string name="cvsecretary">Secretary</string>
+    <string name="cvjoint_secretary">Joint Secretary</string>
+
+
+    <string name="presidentname1cv">Arvind G </string>
+    <string name="presidentname2cv">Yogesh R</string>
+
+    <string name="vpname1cv">Hari Ganapathy K</string>
+    <string name="vpname2cv">Surya E</string>
+
+    <string name="treasurername1cv">Madhumitha G</string>
+    <string name="treasurername2cv">Sri Bhavani</string>
+
+
+    <string name="secretary_name1cv">Jeevarathna R</string>
+    <string name="secretary_name2cv">Nivedita Suresh Nair </string>
+    <string name="joint_secretary_name1cv">Malavika Shetty</string>
+    <string name="joint_secretary_name2cv">Sowndarya T</string>
+    <string name="legendteacher">"2 &#8211; 50 Register numbers are assigned to staff members. Each of the teacher votes has a special value of 5 * Regular Votes</string>
+    <string name="legendhod">Head Of the Department vote has a value of 10 regular votes. HOD id is "1" </string>
+
+    <string name="draw">No winner.Draw!</string>
+</resources>
